@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root {
+    --colour1: rgb(0, 0, 0);
+    --colour2: rgb(31, 21, 12);
+    --colour3: rgb(65, 45, 21);
+    --colour4: rgb(225, 220, 201);
+}
+
+#master {
+    box-shadow: 4px 4px 10px rgb(85, 66, 2);
+}
+
+#maincard {
+    scroll-behavior: smooth;
+    box-shadow: 4px 4px 10px rgb(85, 66, 2);
+}
+
+#masterbuttom {
+
+    box-shadow: 4px 4px 10px rgb(85, 66, 2);
+}
